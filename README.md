@@ -23,13 +23,6 @@
    ```bash
    python course-sched.py < test.txt
    ```
-
-## Files
-
-- **`course-puller.py`**: Fetches and saves the course catalog as `courses.csv`.  
-- **`course-shed.py`**: Checks scheduling conflicts and AA requirement completion.  
-- **`test.txt`**: Example file for CRNs.
-
 ## Notes
 
 - Ensure `courses.csv` exists before running `course-shed.py`.
